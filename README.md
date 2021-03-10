@@ -1,1 +1,0 @@
-# tech-training-camp-frontend
